@@ -123,10 +123,6 @@
             </div>
             <div class="testimonial">
                 <img src="test3.jpg" alt="Мария" class="testimonial-image">
-</div>
-            </div>
-            <div class="testimonial">
-                <img src="test3.jpg" alt="Мария" class="testimonial-image">
                 <div class="testimonial-name">
                     Мария
                 </div>
